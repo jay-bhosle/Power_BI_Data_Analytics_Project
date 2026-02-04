@@ -1,0 +1,10 @@
+B2B sales pipeline data from a company that sells computer hardware, including information on accounts, products, sales teams, and sales opportunities.
+
+Recommended Analysis
+How is each sales team performing compared to the rest?
+
+Are any sales agents lagging behind?
+
+Are there any quarter-over-quarter trends?
+
+Do any products have better win rates?
